@@ -15,6 +15,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
       </ul>
     </li>
     <li>
@@ -53,7 +54,14 @@ Sentiment Analysis of Twitter Information Utilizing Logistic Regression is an on
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Screenshots
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/137065618-7b1988c8-c19f-45ca-92ca-c3aa5c3944d0.png" width="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/137065621-f6024fa8-4427-4bc1-83f0-0e3eefa5fe8f.png" width="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/137065622-b18dcf4f-bff7-403e-9e8e-d5387f6f05a6.png" width="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/137065623-ef31cda1-2ce8-4a38-afd4-4c38e8e2f634.png" width="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/137065624-02ef81a6-1e6d-4735-9f76-1f59e73d7b10.png" width="400px"></p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
